@@ -105,6 +105,22 @@ export const experiences = [
 
 export const projects = [
   {
+    title: "FlowPilot: Enterprise AI Workflow Automation Platform",
+    description:
+      "Built a full-stack MVP for an enterprise AI workflow automation platform with workflow creation and editing, detail pages, database-backed run triggering, approval decisions, governance dashboards, seeded workspace login, and API routes for workflow operations.",
+    stack: ["Next.js", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL", "Zod", "TanStack Query", "Radix UI", "Neon AI"],
+    link: "https://flowpilot-5vmb.vercel.app/login",
+    type: "Full Stack MVP",
+  },
+  {
+    title: "Granite Python Build Agent",
+    description:
+      "Built a reusable Python build environment for CI/CD pipelines using Docker, Poetry, Ruff, Black, and Pytest, creating consistent clean builds with automatic dependency installation, quality checks, tests, and teardown after completion.",
+    stack: ["Python", "Docker", "GitHub", "CI/CD", "Poetry", "Pytest", "Ruff", "Automation"],
+    link: "https://github.com/Thenmozhi2999/granite-python-agent",
+    type: "DevOps Automation",
+  },
+  {
     title: "Assessing AI-Based Code Generation using Code Comments",
     description:
       "Conducted an empirical evaluation of AI-generated code on 200+ code samples across 1200+ experimental runs using similarity metrics, structural analysis, sequence ratio, and logical correctness comparisons against human-written code.",
