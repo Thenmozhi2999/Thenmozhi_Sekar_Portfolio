@@ -22,10 +22,10 @@ export const profile = {
   phone: "475-317-4537",
   availability: "Open to Applied AI, Machine Learning, and Generative AI opportunities",
   snapshot:
-    "Computer Science graduate from Quinnipiac University with a 4.0 GPA, focused on Applied AI, Machine Learning, Generative AI, NLP, and AI-driven software engineering.",
+    "Computer Science graduate from Quinnipiac University with a 3.8/4 CGPA, focused on Applied AI, Machine Learning, Generative AI, NLP, and AI-driven software engineering.",
   image: "/thenmozhi-hero.jpeg",
   heroStats: [
-    { value: "4.0", label: "Master's GPA" },
+    { value: "3.8/4", label: "Master's CGPA" },
     { value: "200+", label: "Code Samples Evaluated" },
     { value: "15,000+", label: "Bug Reports Processed" },
   ],
@@ -53,7 +53,7 @@ export const education = [
     degree: "Master of Science in Computer Science",
     period: "Aug 2024 - May 2026",
     details:
-      "GPA: 4.0. Graduate work focused on Applied AI, machine learning, intelligent systems, NLP, and software engineering research.",
+      "CGPA: 3.8/4. Graduate work focused on Applied AI, machine learning, intelligent systems, NLP, and software engineering research.",
   },
   {
     institution: "Madras University, Kanchipuram, TN, India",
@@ -241,7 +241,7 @@ export const certifications = [
 
 export const resume = {
   description:
-    "Applied AI and ML engineer with a 4.0 GPA, research experience in LLMs and AI for software engineering, and industry experience across full-stack systems, automation, and scalable engineering workflows.",
+    "Applied AI and ML engineer with a 3.8/4 CGPA, research experience in LLMs and AI for software engineering, and industry experience across full-stack systems, automation, and scalable engineering workflows.",
   ctaLabel: "Download Resume",
   ctaHref: "/Thenmozhi_Resume_2026.pdf",
 };
