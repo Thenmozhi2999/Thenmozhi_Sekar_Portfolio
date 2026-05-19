@@ -16,7 +16,7 @@ export const profile = {
   title: "Applied AI & ML Engineer | Generative AI • LLMs • NLP • AI Agents",
   tagline:
     "I'm an Applied AI & ML Engineer with experience in Generative AI, LLMs, NLP, AI agents, and AI-driven software systems. I build practical AI solutions by combining research, machine learning, backend engineering, and scalable software development.",
-  location: "Hamden, Connecticut, USA",
+  location: "United States of America",
   email: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",
@@ -49,7 +49,7 @@ export const about = {
 
 export const education = [
   {
-    institution: "Quinnipiac University, Hamden, CT, USA",
+    institution: "Quinnipiac University, United States of America",
     degree: "Master of Science in Computer Science",
     period: "Aug 2024 - May 2026",
     details:
@@ -66,7 +66,7 @@ export const education = [
 
 export const experiences = [
   {
-    company: "Quinnipiac University, Hamden, CT, USA",
+    company: "Quinnipiac University, United States of America",
     role: "Graduate Research Assistant – AI/ML & Software Engineering",
     period: "Aug 2024 - Present",
     summary:
@@ -252,5 +252,5 @@ export const contact = {
   professionalEmail: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",
-  location: "Hamden, Connecticut, USA",
+  location: "United States of America",
 };
