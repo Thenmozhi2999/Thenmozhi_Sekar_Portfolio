@@ -10,7 +10,7 @@ export default function Hero() {
           </div>
 
           <h1 className="mt-8 font-['Space_Grotesk'] text-5xl font-bold leading-tight text-white sm:text-6xl">
-            Advancing <span className="text-gradient">AI and software engineering</span> through research and real-world development.
+            Building <span className="text-gradient">Applied AI and Generative AI systems</span> through research and engineering.
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">

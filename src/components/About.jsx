@@ -8,7 +8,7 @@ export default function About() {
       <div className="grid gap-10 lg:grid-cols-[0.95fr_1.05fr]">
         <SectionHeading
           eyebrow="About"
-          title="A professional introduction that is easy to personalize later"
+          title="My journey into AI, research, and intelligent systems"
           description={about.intro}
         />
 

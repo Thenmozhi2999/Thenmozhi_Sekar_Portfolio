@@ -13,16 +13,16 @@ export const navLinks = [
 
 export const profile = {
   name: "Thenmozhi Sekar",
-  title: "Graduate Research Assistant | Full Stack Developer | AI in Software Engineering",
+  title: "Applied AI & ML Engineer | Generative AI • LLMs • NLP • AI Agents",
   tagline:
-    "I build reliable software systems and AI-driven research workflows, with a focus on full stack engineering, machine learning, and empirical software engineering.",
+    "I'm an Applied AI & ML Engineer with experience in Generative AI, LLMs, NLP, AI agents, and AI-driven software systems. I build practical AI solutions by combining research, machine learning, backend engineering, and scalable software development.",
   location: "Hamden, Connecticut, USA",
   email: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",
-  availability: "Open to software engineering, research, and AI-focused opportunities",
+  availability: "Open to Applied AI, Machine Learning, and Generative AI opportunities",
   snapshot:
-    "Computer science graduate student at Quinnipiac University with a 4.0 GPA, blending academic research in AI for software engineering with full stack industry experience across automation, analytics, and system optimization.",
+    "Computer Science graduate from Quinnipiac University with a 4.0 GPA, focused on Applied AI, Machine Learning, Generative AI, NLP, and AI-driven software engineering.",
   image: "/thenmozhi-hero.jpeg",
   heroStats: [
     { value: "4.0", label: "Master's GPA" },
@@ -39,11 +39,11 @@ export const profile = {
 
 export const about = {
   intro:
-    "I am a computer science graduate student and software engineer with experience across full stack development, AI-assisted research, and data-driven system improvement. My work brings together rigorous experimentation, practical engineering, and a strong interest in AI for software engineering, machine learning pipelines, and dependable systems that create measurable impact.",
+    "My journey into AI started with curiosity about how intelligent systems can solve real-world problems. Over time, that curiosity grew into a strong passion for Machine Learning, Generative AI, NLP, and AI-driven software engineering.\n\nThrough research and industry experience, I've worked on machine learning workflows, backend systems, automation, predictive analytics, and AI-assisted software engineering projects. I enjoy building practical AI solutions that combine research, engineering, and real-world impact.\n\nCurrently, I'm focused on Applied AI, LLM systems, AI agents, NLP, and scalable AI engineering while continuing to grow as both an engineer and researcher.",
   highlights: [
-    "Conduct graduate research at Quinnipiac University focused on AI and software engineering.",
-    "Bring full stack industry experience across product reliability, workflow automation, and performance optimization.",
-    "Enjoy turning research questions into publishable work, production-ready pipelines, and clear technical outcomes.",
+    "Research applied AI methods for software engineering, including LLM-based code generation evaluation and NLP-driven bug report enhancement.",
+    "Build AI-enabled engineering workflows that connect machine learning, backend systems, automation, and measurable product outcomes.",
+    "Translate research questions into structured experiments, reproducible pipelines, and recruiter-ready technical impact.",
   ],
 };
 
@@ -53,52 +53,52 @@ export const education = [
     degree: "Master of Science in Computer Science",
     period: "Aug 2024 - May 2026",
     details:
-      "GPA: 4.0. Graduate studies focused on advanced computer science, AI, and software engineering research.",
+      "GPA: 4.0. Graduate work focused on Applied AI, machine learning, intelligent systems, NLP, and software engineering research.",
   },
   {
     institution: "Madras University, Kanchipuram, TN, India",
     degree: "Bachelor of Computer Applications",
     period: "Aug 2018 - May 2021",
     details:
-      "GPA: 3.7. Built strong foundations in programming, software development, and computational problem solving.",
+      "GPA: 3.7. Built a strong foundation in programming, algorithms, databases, and software engineering that supports current AI/ML system development.",
   },
 ];
 
 export const experiences = [
   {
     company: "Quinnipiac University, Hamden, CT, USA",
-    role: "Graduate Research Assistant (AI/Software Engineering)",
+    role: "Graduate Research Assistant – AI/ML & Software Engineering",
     period: "Aug 2024 - Present",
     summary:
-      "Support AI and software engineering research through literature review, proposal development, experimental design, and implementation of data engineering and machine learning workflows.",
+      "Conduct applied AI and software engineering research across LLM evaluation, NLP workflows, machine learning experimentation, and AI-assisted developer tooling.",
     achievements: [
-      "Conduct weekly literature reviews in AI and software engineering to identify research gaps and emerging methodologies.",
-      "Collaborate with two faculty advisors to refine ideas, draft proposals, and shape research concepts into publishable topics.",
-      "Design and implement data engineering and machine learning pipelines in Python and Java, including LLM-based experimentation and analysis.",
+      "Review emerging AI/ML, LLM, and software engineering research to identify gaps, evaluation methods, and publishable research directions.",
+      "Collaborate with faculty advisors to shape research proposals, experimental design, and empirical studies around AI-driven software engineering.",
+      "Build Python and Java pipelines for data processing, NLP analysis, LLM-based experimentation, and machine learning evaluation.",
     ],
   },
   {
     company: "Goaira Technologies Pvt Limited, Chennai, India",
-    role: "Full Stack Developer",
+    role: "AI-Driven Full-Stack Software Engineer",
     period: "Jun 2022 - Apr 2024",
     summary:
-      "Worked on reliability, automation, and operational efficiency initiatives by analyzing production issues and collaborating with cross-functional teams on scalable solutions.",
+      "Developed full-stack systems and automation workflows that improved reliability, operational visibility, and data-informed decision making.",
     achievements: [
-      "Analyzed system performance and user issue data to improve reliability across 200+ devices.",
-      "Automated monitoring and maintenance workflows, reducing manual effort by 30% and improving team efficiency.",
-      "Collected and documented technical issue data to support data-driven decisions and predictive maintenance initiatives.",
+      "Analyzed production performance, device telemetry, and issue patterns to improve reliability across 200+ connected devices.",
+      "Automated monitoring and maintenance workflows, reducing manual effort by 30% while improving response speed and team efficiency.",
+      "Structured technical issue data to support predictive maintenance, operational analytics, and AI-ready reporting workflows.",
     ],
   },
   {
     company: "Ijona Technologies Pvt. Ltd, Bangalore, India",
-    role: "Full Stack Java Developer",
+    role: "Full-Stack Java Software Engineer",
     period: "Nov 2021 - May 2022",
     summary:
-      "Contributed to system performance improvement through algorithmic development, user behavior analysis, and continuous optimization.",
+      "Built and optimized Java-based software systems with a focus on backend reliability, algorithmic thinking, and data-informed product improvement.",
     achievements: [
-      "Developed and tested algorithmic models using experimental analysis to improve performance and outcomes.",
-      "Analyzed user behavior data to optimize system design and enhance overall performance.",
-      "Improved system reliability and efficiency through testing, performance analysis, and iterative refinement.",
+      "Developed and tested algorithmic components using experimental analysis to improve performance and system outcomes.",
+      "Analyzed user behavior and application data to refine system design, usability, and backend performance.",
+      "Improved reliability through testing, debugging, performance analysis, and iterative engineering improvements.",
     ],
   },
 ];
@@ -209,23 +209,23 @@ export const publications = [
 export const skillGroups = [
   {
     category: "Languages",
-    items: ["Java", "Python", "C/C++", "SQL (Postgres)", "JavaScript", "HTML/CSS", "R"],
+    items: ["Python", "Java", "SQL", "JavaScript", "C/C++", "R"],
   },
   {
-    category: "AI / SE / ML",
-    items: ["Scikit-learn", "XGBoost", "Pandas", "NumPy", "PyTorch", "NLP"],
+    category: "AI / Machine Learning",
+    items: ["Machine Learning", "NLP", "Scikit-learn", "XGBoost", "PyTorch", "Pandas", "NumPy", "Feature Selection"],
   },
   {
-    category: "Developer Tools",
-    items: ["Git", "Jira", "Visual Studio", "Docker", "MLflow", "OpenCV", "AWS", "Kubernetes", "Airflow"],
+    category: "Generative AI",
+    items: ["LLMs", "Transformers", "AI Agents", "RAG", "Hugging Face", "Prompt Engineering", "LLM Evaluation"],
   },
   {
-    category: "Methodologies",
-    items: ["Agile", "SDLC", "CI/CD", "TDD"],
+    category: "Cloud & Tools",
+    items: ["AWS", "Docker", "Kubernetes", "Airflow", "MLflow", "Git", "GitHub", "Jira"],
   },
   {
-    category: "Concepts",
-    items: ["Data Structures & Algorithms", "OOP", "APIs", "System Design"],
+    category: "Software Engineering",
+    items: ["Backend Engineering", "APIs", "System Design", "Data Structures & Algorithms", "OOP", "CI/CD", "Agile", "SDLC"],
   },
 ];
 
@@ -241,14 +241,14 @@ export const certifications = [
 
 export const resume = {
   description:
-    "Graduate student in computer science with a 4.0 GPA, research experience in AI for software engineering, and industry experience across full stack development, automation, and performance optimization.",
+    "Applied AI and ML engineer with a 4.0 GPA, research experience in LLMs and AI for software engineering, and industry experience across full-stack systems, automation, and scalable engineering workflows.",
   ctaLabel: "Download Resume",
   ctaHref: "/Thenmozhi_Resume_2026.pdf",
 };
 
 export const contact = {
   message:
-    "I am open to conversations about software engineering roles, AI and software engineering research, collaborations, and technical opportunities.",
+    "I'm currently seeking opportunities in Applied AI, Machine Learning, and Generative AI roles. Feel free to reach out for collaborations, research discussions, or professional opportunities.",
   professionalEmail: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",

@@ -8,7 +8,7 @@ export default function Resume() {
       <div className="panel rounded-[2rem] p-8 sm:p-10">
         <SectionHeading
           eyebrow="Resume"
-          title="A quick path for recruiters and collaborators to request your resume"
+          title="Resume for Applied AI and ML opportunities"
           description={resume.description}
         />
 

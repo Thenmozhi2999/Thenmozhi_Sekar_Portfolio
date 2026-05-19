@@ -7,8 +7,8 @@ export default function Experience() {
     <SectionWrapper id="experience">
       <SectionHeading
         eyebrow="Experience"
-        title="Roles shaped by ownership, curiosity, and measurable impact"
-        description="Use this section to describe the teams, products, and outcomes that best represent your career story."
+        title="Applied AI research and engineering experience"
+        description="Work spanning AI/ML research, LLM experimentation, backend systems, automation, analytics, and production-focused software engineering."
       />
 
       <div className="mt-10 space-y-6">

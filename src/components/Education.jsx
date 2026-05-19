@@ -7,8 +7,8 @@ export default function Education() {
     <SectionWrapper id="education">
       <SectionHeading
         eyebrow="Education"
-        title="Academic foundations and continuing growth"
-        description="Showcase degrees, coursework, honors, and learning milestones in a format that is simple to update."
+        title="Academic foundation in AI, ML, and software engineering"
+        description="Graduate and undergraduate study grounded in intelligent systems, applied machine learning, algorithms, and research-driven software development."
       />
 
       <div className="mt-10 grid gap-6">

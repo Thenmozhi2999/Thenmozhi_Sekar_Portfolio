@@ -8,7 +8,7 @@ export default function SectionHeading({ eyebrow, title, description }) {
         {title}
       </h2>
       {description ? (
-        <p className="mt-4 text-base leading-7 text-slate-300">{description}</p>
+        <p className="mt-4 whitespace-pre-line text-base leading-7 text-slate-300">{description}</p>
       ) : null}
     </div>
   );

@@ -7,8 +7,8 @@ export default function Skills() {
     <SectionWrapper id="skills">
       <SectionHeading
         eyebrow="Skills"
-        title="Technical strengths organized by category"
-        description="Grouping skills this way keeps the section readable while making future edits much easier."
+        title="AI, ML, and engineering toolkit"
+        description="A practical skill set for building AI-powered products, machine learning workflows, LLM applications, and reliable software systems."
       />
 
       <div className="mt-10 grid gap-6 lg:grid-cols-3">

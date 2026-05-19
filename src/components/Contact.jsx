@@ -24,7 +24,7 @@ export default function Contact() {
         <div>
           <SectionHeading
             eyebrow="Contact"
-            title="Let people know how to reach you"
+            title="Let's connect on AI, research, and engineering"
             description={contact.message}
           />
 
