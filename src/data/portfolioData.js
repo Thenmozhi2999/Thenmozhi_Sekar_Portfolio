@@ -78,15 +78,15 @@ export const experiences = [
     ],
   },
   {
-    company: "Goaira Technologies Pvt Limited, Chennai, India",
-    role: "AI-Driven Full-Stack Software Engineer",
+    company: "Uniphore, Chennai, India",
+    role: "Applied AI Engineer",
     period: "Jun 2022 - Apr 2024",
     summary:
-      "Developed full-stack systems and automation workflows that improved reliability, operational visibility, and data-informed decision making.",
+      "Developed and deployed AI-powered applications using LLMs, AI agents, NLP, and machine learning techniques to automate enterprise workflows and improve operational efficiency.",
     achievements: [
-      "Analyzed production performance, device telemetry, and issue patterns to improve reliability across 200+ connected devices.",
-      "Automated monitoring and maintenance workflows, reducing manual effort by 30% while improving response speed and team efficiency.",
-      "Structured technical issue data to support predictive maintenance, operational analytics, and AI-ready reporting workflows.",
+      "Automated enterprise workflows with LLMs, AI agents, NLP, and machine learning techniques, improving operational efficiency by 30%.",
+      "Built scalable AI agents and RAG pipelines, reducing response and information retrieval times by 40%.",
+      "Collaborated with cross-functional teams to optimize model performance and production deployments, improving AI system reliability by 25%.",
     ],
   },
   {
@@ -241,7 +241,7 @@ export const certifications = [
 
 export const resume = {
   description:
-    "Applied AI and ML engineer with a 3.8/4 CGPA, research experience in LLMs and AI for software engineering, and industry experience across full-stack systems, automation, and scalable engineering workflows.",
+    "AI/ML Research Engineer with 4.5+ years of experience in machine learning, Generative AI, scalable AI systems, LLM solutions, PyTorch-based models, and production-grade ML pipelines.",
   ctaLabel: "Download Resume",
   ctaHref: "/Thenmozhi_Resume_2026.pdf",
 };
