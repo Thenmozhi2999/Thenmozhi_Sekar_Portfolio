@@ -15,14 +15,14 @@ export const profile = {
   name: "Thenmozhi Sekar",
   title: "AI/ML Engineer | Research Assistant | Generative AI | LLMs | NLP",
   tagline:
-    "I'm an AI/ML Engineer and current Research Assistant with 5 years 11 months of experience across Machine Learning, Generative AI, LLMs, NLP, AI agents, and scalable AI systems. I build production-minded AI solutions by combining research, machine learning, backend engineering, and modern MLOps practices.",
+    "I design practical AI systems that move from research ideas to working products, including fraud detection models, LLM-powered workflows, NLP pipelines, and backend services built for real users.",
   location: "United States of America",
   email: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",
   availability: "Open to Applied AI, Machine Learning, and Generative AI opportunities",
   snapshot:
-    "AI/ML Engineer and current Research Assistant with 5 years 11 months of experience in Machine Learning, Generative AI, LLMs, NLP, and scalable AI systems. Published IEEE research and experienced in building production-grade AI applications with Python, PyTorch, AWS, and MLOps.",
+    "Current Research Assistant at Quinnipiac University with a 3.8/4 Master's CGPA, published IEEE research, and 5 years 11 months of experience across machine learning, Generative AI, LLMs, NLP, Python, PyTorch, AWS, and MLOps.",
   image: "/thenmozhi-hero.jpeg",
   heroStats: [
     { value: "5y 11m", label: "AI/ML Experience" },
@@ -78,15 +78,17 @@ export const experiences = [
     ],
   },
   {
-    company: "Capital One, New York, United States - Remote",
-    role: "Machine Learning Engineer",
+    company: "Capital One, New York, United States",
+    role: "Machine Learning Engineer (Remote)",
     period: "May 2025 - Dec 2025 (8 mos)",
     summary:
-      "Designed and developed machine learning models, end-to-end ML pipelines, and production APIs for fraud detection, credit risk analysis, and customer behavior prediction in financial services.",
+      "Designed and developed machine learning models for fraud detection, credit risk analysis, and customer behavior prediction.",
     achievements: [
-      "Designed and deployed ML models for fraud detection and credit risk analysis, improving prediction accuracy by 18% using Python, SQL, and Scikit-learn.",
-      "Built end-to-end ML pipelines processing 5M+ financial records and reduced training time by 30% using Spark and feature engineering.",
-      "Deployed ML models on AWS using FastAPI, Docker, and CI/CD workflows, reducing inference latency by 25%.",
+      "Built end-to-end machine learning pipelines covering data preprocessing, feature engineering, model training, validation, and production deployment.",
+      "Analyzed large-scale financial datasets using Python, SQL, Pandas, NumPy, and Spark.",
+      "Developed RESTful APIs using FastAPI to deploy machine learning models into production environments.",
+      "Collaborated with data scientists, software engineers, and business teams to integrate AI-powered solutions into production systems.",
+      "Monitored production model performance, optimized model accuracy, and implemented CI/CD pipelines using AWS and Docker.",
     ],
   },
   {
