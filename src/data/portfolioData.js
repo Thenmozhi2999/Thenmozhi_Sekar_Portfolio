@@ -13,21 +13,21 @@ export const navLinks = [
 
 export const profile = {
   name: "Thenmozhi Sekar",
-  title: "Applied AI & ML Engineer | Generative AI • LLMs • NLP • AI Agents",
+  title: "AI/ML Engineer | Research Assistant | Generative AI | LLMs | NLP",
   tagline:
-    "I'm an Applied AI & ML Engineer with experience in Generative AI, LLMs, NLP, AI agents, and AI-driven software systems. I build practical AI solutions by combining research, machine learning, backend engineering, and scalable software development.",
+    "I'm an AI/ML Engineer and current Research Assistant with 5 years 11 months of experience across Machine Learning, Generative AI, LLMs, NLP, AI agents, and scalable AI systems. I build production-minded AI solutions by combining research, machine learning, backend engineering, and modern MLOps practices.",
   location: "United States of America",
   email: "Thenmozhi.Sekar@quinnipiac.edu",
   personalEmail: "then99mozhisekar@gmail.com",
   phone: "475-317-4537",
   availability: "Open to Applied AI, Machine Learning, and Generative AI opportunities",
   snapshot:
-    "Computer Science graduate from Quinnipiac University with a 3.8/4 CGPA, focused on Applied AI, Machine Learning, Generative AI, NLP, and AI-driven software engineering.",
+    "AI/ML Engineer and current Research Assistant with 5 years 11 months of experience in Machine Learning, Generative AI, LLMs, NLP, and scalable AI systems. Published IEEE research and experienced in building production-grade AI applications with Python, PyTorch, AWS, and MLOps.",
   image: "/thenmozhi-hero.jpeg",
   heroStats: [
+    { value: "5y 11m", label: "AI/ML Experience" },
     { value: "3.8/4", label: "Master's CGPA" },
-    { value: "200+", label: "Code Samples Evaluated" },
-    { value: "15,000+", label: "Bug Reports Processed" },
+    { value: "IEEE", label: "Published Research" },
   ],
   socialLinks: [
     { label: "LinkedIn", href: "https://linkedin.com/in/thenmozhi-sekar" },
@@ -67,8 +67,8 @@ export const education = [
 export const experiences = [
   {
     company: "Quinnipiac University, United States of America",
-    role: "Graduate Research Assistant – AI/ML & Software Engineering",
-    period: "Aug 2024 - Present",
+    role: "Graduate Research Assistant - AI, Machine Learning & Software Engineering (Part-time)",
+    period: "Aug 2024 - Present (1 yr 11 mos)",
     summary:
       "Conduct applied AI and software engineering research across LLM evaluation, NLP workflows, machine learning experimentation, and AI-assisted developer tooling.",
     achievements: [
@@ -78,9 +78,21 @@ export const experiences = [
     ],
   },
   {
+    company: "Capital One, New York, United States - Remote",
+    role: "Machine Learning Engineer",
+    period: "May 2025 - Dec 2025 (8 mos)",
+    summary:
+      "Designed and developed machine learning models, end-to-end ML pipelines, and production APIs for fraud detection, credit risk analysis, and customer behavior prediction in financial services.",
+    achievements: [
+      "Designed and deployed ML models for fraud detection and credit risk analysis, improving prediction accuracy by 18% using Python, SQL, and Scikit-learn.",
+      "Built end-to-end ML pipelines processing 5M+ financial records and reduced training time by 30% using Spark and feature engineering.",
+      "Deployed ML models on AWS using FastAPI, Docker, and CI/CD workflows, reducing inference latency by 25%.",
+    ],
+  },
+  {
     company: "Uniphore, Chennai, India",
-    role: "Applied AI Engineer",
-    period: "Jun 2022 - Apr 2024",
+    role: "Applied AI Engineer (Full Time)",
+    period: "Jun 2022 - Jul 2024 (2 yrs 2 mos)",
     summary:
       "Developed and deployed AI-powered applications using LLMs, AI agents, NLP, and machine learning techniques to automate enterprise workflows and improve operational efficiency.",
     achievements: [
@@ -91,8 +103,8 @@ export const experiences = [
   },
   {
     company: "Ijona Technologies Pvt. Ltd, Bangalore, India",
-    role: "Full-Stack Java Software Engineer",
-    period: "Nov 2021 - May 2022",
+    role: "Full-Stack Java Software Engineer (Full Time)",
+    period: "Apr 2021 - May 2022 (1 yr 2 mos)",
     summary:
       "Built and optimized Java-based software systems with a focus on backend reliability, algorithmic thinking, and data-informed product improvement.",
     achievements: [
@@ -213,7 +225,7 @@ export const skillGroups = [
   },
   {
     category: "AI / Machine Learning",
-    items: ["Machine Learning", "NLP", "Scikit-learn", "XGBoost", "PyTorch", "Pandas", "NumPy", "Feature Selection"],
+    items: ["Machine Learning", "NLP", "Scikit-learn", "XGBoost", "PyTorch", "Pandas", "NumPy", "Spark", "Feature Selection"],
   },
   {
     category: "Generative AI",
@@ -225,7 +237,7 @@ export const skillGroups = [
   },
   {
     category: "Software Engineering",
-    items: ["Backend Engineering", "APIs", "System Design", "Data Structures & Algorithms", "OOP", "CI/CD", "Agile", "SDLC"],
+    items: ["Backend Engineering", "FastAPI", "REST APIs", "System Design", "Data Structures & Algorithms", "OOP", "CI/CD", "Agile", "SDLC"],
   },
 ];
 
@@ -241,7 +253,7 @@ export const certifications = [
 
 export const resume = {
   description:
-    "AI/ML Research Engineer with 4.5+ years of experience in machine learning, Generative AI, scalable AI systems, LLM solutions, PyTorch-based models, and production-grade ML pipelines.",
+    "AI/ML Engineer and Research Assistant with 5 years 11 months of experience in machine learning, Generative AI, LLM-powered solutions, NLP systems, scalable AI applications, and production-grade ML pipelines.",
   ctaLabel: "Download Resume",
   ctaHref: "/Thenmozhi_Resume_2026.pdf",
 };
