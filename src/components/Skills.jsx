@@ -11,7 +11,7 @@ export default function Skills() {
         description="A practical skill set for building AI-powered products, machine learning workflows, LLM applications, and reliable software systems."
       />
 
-      <div className="mt-10 grid gap-6 lg:grid-cols-3">
+      <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
         {skillGroups.map((group) => (
           <article key={group.category} className="panel rounded-[2rem] p-6">
             <h3 className="font-['Space_Grotesk'] text-2xl font-semibold text-white">

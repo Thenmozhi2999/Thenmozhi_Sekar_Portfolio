@@ -222,24 +222,36 @@ export const publications = [
 
 export const skillGroups = [
   {
-    category: "Languages",
-    items: ["Python", "Java", "SQL", "JavaScript", "C/C++", "R"],
+    category: "Programming Languages",
+    items: ["Python", "Java", "SQL", "JavaScript", "TypeScript", "C/C++"],
   },
   {
-    category: "AI / Machine Learning",
-    items: ["Machine Learning", "NLP", "Scikit-learn", "XGBoost", "PyTorch", "Pandas", "NumPy", "Spark", "Feature Selection"],
+    category: "Machine Learning & AI",
+    items: ["Machine Learning", "Deep Learning", "PyTorch", "Scikit-learn", "XGBoost", "NLP", "Transformers", "Hugging Face", "Feature Engineering", "Model Training", "Model Validation", "Hyperparameter Tuning"],
   },
   {
     category: "Generative AI",
-    items: ["LLMs", "Transformers", "AI Agents", "RAG", "Hugging Face", "Prompt Engineering", "LLM Evaluation"],
+    items: ["Large Language Models (LLMs)", "Prompt Engineering", "Retrieval-Augmented Generation (RAG)", "AI Agents", "LangChain", "Semantic Search", "OpenAI API", "LLM Workflows", "Vector Databases"],
   },
   {
-    category: "Cloud & Tools",
-    items: ["AWS", "Docker", "Kubernetes", "Airflow", "MLflow", "Git", "GitHub", "Jira"],
+    category: "MLOps & Cloud",
+    items: ["AWS", "Docker", "Kubernetes", "MLflow", "Airflow", "CI/CD", "Git", "Model Deployment", "Model Monitoring", "Experiment Tracking", "GitHub Actions"],
+  },
+  {
+    category: "Backend & Frameworks",
+    items: ["FastAPI", "REST APIs", "Next.js", "Node.js", "Prisma", "PostgreSQL"],
+  },
+  {
+    category: "Data Engineering & Analytics",
+    items: ["SQL", "PostgreSQL", "Pandas", "NumPy", "Apache Spark", "Data Preprocessing", "Data Analysis"],
   },
   {
     category: "Software Engineering",
-    items: ["Backend Engineering", "FastAPI", "REST APIs", "System Design", "Data Structures & Algorithms", "OOP", "CI/CD", "Agile", "SDLC"],
+    items: ["Object-Oriented Programming (OOP)", "Data Structures & Algorithms", "System Design", "SDLC", "Agile", "Microservices", "Scalable Distributed Systems"],
+  },
+  {
+    category: "Developer Tools",
+    items: ["GitHub", "VS Code", "IntelliJ IDEA", "Jupyter Notebook", "Postman"],
   },
 ];
 
